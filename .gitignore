@@ -18,3 +18,5 @@
 *.user
 *.suo
 *.sln.docstates
+*.sln
+*.csproj
